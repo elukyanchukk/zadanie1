@@ -14,3 +14,9 @@ a = 10
 h = 5
 pole_tr = 1/2*a*h
 print("Pole trójkątu wynosi: ", str(pole_tr))
+
+# Romb
+diag_1 = 10
+diag_2 = 6
+pole_romb = 1/2*diag_1*diag_2
+print("Pole rombu wynosi: ", str(pole_romb))
